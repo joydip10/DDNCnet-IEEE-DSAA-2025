@@ -35,7 +35,3 @@ This directory contains year-wise results from portfolio optimization based on c
   Results are provided for both GPU-enhanced DDNCnet and linear correlation-based network approaches.
 
 
-
-## License
-
-This project is for IEEE DSAA 2025 conference
