@@ -11,7 +11,7 @@ This repository contains code and data supporting the paper submission to **IEEE
 This directory includes core components for network construction and stock selection:
 
 - **GPU-Enhanced DDNCnet**  
-  Implementation of the Dynamic Data-Driven Correlation Network (DDNCnet) using GPU acceleration for high-performance financial time-series network analysis.
+  Implementation of the Dynamic Data-Driven Covariance Network (DDNCnet) using GPU acceleration for high-performance financial time-series network analysis.
 
 - **GPU-Enhanced Linear Correlation-Based Financial Network**  
   Constructs financial stock networks based on linear correlation coefficients with GPU parallelization to improve computation speed.
